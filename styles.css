@@ -1,10 +1,11 @@
 * {
-    margin: 0;
+    margin:auto;
     padding: 0;
 }
 
 body{
     background-color: #F5F8FF;
+    max-width: 1440px;
 }
 /* for font style  */
 
