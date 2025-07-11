@@ -1,11 +1,13 @@
 * {
-    margin:auto;
+    margin: 0;
     padding: 0;
+    box-sizing: border-box;
+
 }
 
 body{
     background-color: #F5F8FF;
-    max-width: 1440px;
+    width: 100%;
 }
 /* for font style  */
 
@@ -91,6 +93,7 @@ body{
     font-size: 0.9rem;
     color: white;
     cursor: pointer;
+
 
 }
 
@@ -180,6 +183,7 @@ body{
     padding: 40px;
     background-color: #706bfd28;
     border-radius: 15px;
+    
 
 }
 
@@ -209,6 +213,7 @@ body{
     margin: 0 auto;
     margin-top: 100px;
     padding: 40px;
+    text-align: center;
 
 }
 
